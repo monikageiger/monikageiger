@@ -1,7 +1,6 @@
 ## Hi there, I am Monika 👋
 
-- 🔭 I’m currently looking for a job where I can deepen my knowledge in web development. 🚀 💻
-- 🌱 I’m currently learning TypeScript 🤓
+- 🌱 I’m currently learning Vue 🤓
 - 💬 Ask me about front-end or back-end web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monika-geiger/)
 - 😄 Pronouns: she/her
