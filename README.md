@@ -21,4 +21,4 @@ _Create your own personal library using real books with the Google Books API. A 
 ### Igniters
 _A repository of women's rights organizations, Igniters is a power tool for women around the world, developed using MERN stack and mobile first design using Bootstrap._  
   - [GitHub Repo](https://github.com/monikageiger/igniters)  
-  - [Check the app here](https://globtrotters-igniters.herokuapp.com/)
+  - [Check the app here](https://igniters-6fbb75bc7925.herokuapp.com/)
