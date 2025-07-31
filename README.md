@@ -4,7 +4,7 @@
 - 💬 Ask me about front-end or back-end web development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/monika-geiger/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: during my web development course at Ironhack I ate 3 glasses of Nutella 🤤 🙈
+- ⚡ Fun fact: during my web development bootcamp at Ironhack I ate 3 glasses of Nutella 🤤 🙈
 
 ## PROJECTS THAT I AM PROUD OF:
 
